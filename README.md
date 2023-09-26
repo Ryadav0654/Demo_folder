@@ -1,4 +1,4 @@
 # Newproj-demo
-This is mmy first Git Repository.
+This is my first Git Repository.
 <br>
 Author - Ravindra yadav
